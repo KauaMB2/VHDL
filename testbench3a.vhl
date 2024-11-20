@@ -70,4 +70,4 @@ BEGIN
         WAIT;
     END PROCESS;
 
-END behavior;
+END behavior;

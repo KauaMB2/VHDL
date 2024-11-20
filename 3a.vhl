@@ -23,4 +23,4 @@ BEGIN
 
     -- Atribui o valor de Q_int à saída Q_out
     Q_out <= Q_int;
-END behavioral;
+END behavioral;
